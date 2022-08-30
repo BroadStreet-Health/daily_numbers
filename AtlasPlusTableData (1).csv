@@ -1,0 +1,222 @@
+﻿"Date Printed: Monday, August 29, 2022 6:40:58 PM"
+Title: "Estimated HIV incidence | HIV deaths | HIV diagnoses | HIV prevalence | Receipt of HIV medical care | 2017 | 2018 | 2019 | United States | American Indian/Alaska Native | Asian | Black/African American | Hispanic/Latino | Multiracial | Native Hawaiian/Other Pacific Islander | White | Female | Male | Ages 13 years and older | All transmission categories"
+Footnote(s): For all HIV surveillance data: Data for the year 2020 should be interpreted with caution due to the impact of the COVID-19 pandemic on access to HIV testing, care-related services, and case surveillance activities in state/local jurisdictions. Data for the years 2021 and 2022 are preliminary (subject to a 12-month reporting delay). Rates are not reported until 12-month reporting delay is complete. Inclusion of 2020 through 2022 data in trend assessments is discouraged.
+Prevalence: Prevalence data for the year 2020 are preliminary and based on death data received by CDC as of December 2021. Prevalence data prior to 2010 are based on residence at diagnosis; prevalence data from 2010 to present are based on most recent known address. See Technical Notes for more information on death reporting by jurisdiction.
+Death: Death data for the year 2020 are preliminary and based on death data received by CDC as of December 2021. Death data based on residence at death.
+^ Jurisdiction with incomplete reporting of deaths for most recent year; relevant for HIV deaths, HIV prevalence, AIDS deaths, AIDS prevalence, knowledge of status, estimated HIV incidence, estimated HIV prevalence, and receipt of HIV medical care, and viral suppression indicators.
+PrEP coverage, reported as a percentage, is calculated as the number of persons aged ≥16 years classified as having been prescribed PrEP divided by the estimated number of persons aged ≥16 years who had indications for PrEP.   Number prescribed, or “cases”, is defined as the number of persons aged ≥16 years classified as having been prescribed PrEP during the specified year and includes all FDA-approved drugs for PrEP.  “Population” is the annual estimated number of persons with PrEP indications. Total includes people categorized by IQVIA as Black, White, Hispanic, or Other race. Number prescribed are reported through December 2021. Data for which values are unknown were not reported; therefore, values may not sum to column total.
+NA - Not applicable
+ *Estimates with an RSE of 30%-50% should be used with caution because they do not meet the standard of reliability. Estimates with an RSE>50% are not shown.
+
+
+Indicator,Year,Race/Ethnicity,Sex,Cases (95% CI RSE)
+"Estimated HIV incidence","2017","American Indian/Alaska Native","Female","Data not available",null
+"Estimated HIV incidence","2017","American Indian/Alaska Native","Male","Data not available",null
+"Estimated HIV incidence","2017","Asian","Female","Data not available",null
+"Estimated HIV incidence","2017","Asian","Male","Data not available",null
+"Estimated HIV incidence","2017","Black/African American","Female","3,700 (3,200 - 4,200, 6.8)",null
+"Estimated HIV incidence","2017","Black/African American","Male","11,200 (10,200 - 12,100, 4.4)",null
+"Estimated HIV incidence","2017","Hispanic/Latino","Female","1,200 (930 - 1,500, 12.2)",null
+"Estimated HIV incidence","2017","Hispanic/Latino","Male","9,600 (8,600 - 10,500, 5.1)",null
+"Estimated HIV incidence","2017","Multiracial","Female","Data not available",null
+"Estimated HIV incidence","2017","Multiracial","Male","Data not available",null
+"Estimated HIV incidence","2017","Native Hawaiian/Other Pacific Islander","Female","Data not available",null
+"Estimated HIV incidence","2017","Native Hawaiian/Other Pacific Islander","Male","Data not available",null
+"Estimated HIV incidence","2017","White","Female","1,500 (1,200 - 1,800, 10.2)",null
+"Estimated HIV incidence","2017","White","Male","7,600 (6,800 - 8,300, 5.0)",null
+"Estimated HIV incidence","2018","American Indian/Alaska Native","Female","Data not available",null
+"Estimated HIV incidence","2018","American Indian/Alaska Native","Male","Data not available",null
+"Estimated HIV incidence","2018","Asian","Female","Data not available",null
+"Estimated HIV incidence","2018","Asian","Male","Data not available",null
+"Estimated HIV incidence","2018","Black/African American","Female","3,600 (3,000 - 4,100, 7.8)",null
+"Estimated HIV incidence","2018","Black/African American","Male","11,200 (10,100 - 12,300, 5.1)",null
+"Estimated HIV incidence","2018","Hispanic/Latino","Female","1,300 (980 - 1,600, 13.1)",null
+"Estimated HIV incidence","2018","Hispanic/Latino","Male","9,700 (8,500 - 10,800, 5.9)",null
+"Estimated HIV incidence","2018","Multiracial","Female","Data not available",null
+"Estimated HIV incidence","2018","Multiracial","Male","Data not available",null
+"Estimated HIV incidence","2018","Native Hawaiian/Other Pacific Islander","Female","Data not available",null
+"Estimated HIV incidence","2018","Native Hawaiian/Other Pacific Islander","Male","Data not available",null
+"Estimated HIV incidence","2018","White","Female","1,400 (1,100 - 1,800, 12.0)",null
+"Estimated HIV incidence","2018","White","Male","7,300 (6,400 - 8,100, 5.8)",null
+"Estimated HIV incidence","2019","American Indian/Alaska Native","Female","Data not available",null
+"Estimated HIV incidence","2019","American Indian/Alaska Native","Male","Data not available",null
+"Estimated HIV incidence","2019","Asian","Female","Data not available",null
+"Estimated HIV incidence","2019","Asian","Male","Data not available",null
+"Estimated HIV incidence","2019","Black/African American","Female","3,400 (2,800 - 4,000, 9.1)",null
+"Estimated HIV incidence","2019","Black/African American","Male","10,900 (9,600 - 12,200, 6.0)",null
+"Estimated HIV incidence","2019","Hispanic/Latino","Female","1,100 (780 - 1,500, 16.3)",null
+"Estimated HIV incidence","2019","Hispanic/Latino","Male","9,100 (7,800 - 10,400, 7.3)",null
+"Estimated HIV incidence","2019","Multiracial","Female","Data not available",null
+"Estimated HIV incidence","2019","Multiracial","Male","Data not available",null
+"Estimated HIV incidence","2019","Native Hawaiian/Other Pacific Islander","Female","Data not available",null
+"Estimated HIV incidence","2019","Native Hawaiian/Other Pacific Islander","Male","Data not available",null
+"Estimated HIV incidence","2019","White","Female","1,600 (1,200 - 2,000, 12.9)",null
+"Estimated HIV incidence","2019","White","Male","7,000 (6,100 - 8,000, 6.8)",null
+"HIV deaths","2017","American Indian/Alaska Native","Female","14",null
+"HIV deaths","2017","American Indian/Alaska Native","Male","33",null
+"HIV deaths","2017","Asian","Female","15",null
+"HIV deaths","2017","Asian","Male","73",null
+"HIV deaths","2017","Black/African American","Female","2,289",null
+"HIV deaths","2017","Black/African American","Male","4,909",null
+"HIV deaths","2017","Hispanic/Latino","Female","585",null
+"HIV deaths","2017","Hispanic/Latino","Male","2,109",null
+"HIV deaths","2017","Multiracial","Female","266",null
+"HIV deaths","2017","Multiracial","Male","808",null
+"HIV deaths","2017","Native Hawaiian/Other Pacific Islander","Female","4",null
+"HIV deaths","2017","Native Hawaiian/Other Pacific Islander","Male","5",null
+"HIV deaths","2017","White","Female","825",null
+"HIV deaths","2017","White","Male","4,413",null
+"HIV deaths","2018","American Indian/Alaska Native","Female","15",null
+"HIV deaths","2018","American Indian/Alaska Native","Male","33",null
+"HIV deaths","2018","Asian","Female","11",null
+"HIV deaths","2018","Asian","Male","73",null
+"HIV deaths","2018","Black/African American","Female","2,275",null
+"HIV deaths","2018","Black/African American","Male","4,708",null
+"HIV deaths","2018","Hispanic/Latino","Female","583",null
+"HIV deaths","2018","Hispanic/Latino","Male","2,257",null
+"HIV deaths","2018","Multiracial","Female","273",null
+"HIV deaths","2018","Multiracial","Male","817",null
+"HIV deaths","2018","Native Hawaiian/Other Pacific Islander","Female","1",null
+"HIV deaths","2018","Native Hawaiian/Other Pacific Islander","Male","12",null
+"HIV deaths","2018","White","Female","831",null
+"HIV deaths","2018","White","Male","4,320",null
+"HIV deaths","2019","American Indian/Alaska Native","Female","19",null
+"HIV deaths","2019","American Indian/Alaska Native","Male","39",null
+"HIV deaths","2019","Asian","Female","8",null
+"HIV deaths","2019","Asian","Male","93",null
+"HIV deaths","2019","Black/African American","Female","2,201",null
+"HIV deaths","2019","Black/African American","Male","4,791",null
+"HIV deaths","2019","Hispanic/Latino","Female","566",null
+"HIV deaths","2019","Hispanic/Latino","Male","2,174",null
+"HIV deaths","2019","Multiracial","Female","265",null
+"HIV deaths","2019","Multiracial","Male","822",null
+"HIV deaths","2019","Native Hawaiian/Other Pacific Islander","Female","5",null
+"HIV deaths","2019","Native Hawaiian/Other Pacific Islander","Male","9",null
+"HIV deaths","2019","White","Female","770",null
+"HIV deaths","2019","White","Male","4,464",null
+"HIV diagnoses","2017","American Indian/Alaska Native","Female","45",null
+"HIV diagnoses","2017","American Indian/Alaska Native","Male","155",null
+"HIV diagnoses","2017","Asian","Female","117",null
+"HIV diagnoses","2017","Asian","Male","806",null
+"HIV diagnoses","2017","Black/African American","Female","4,279",null
+"HIV diagnoses","2017","Black/African American","Male","11,944",null
+"HIV diagnoses","2017","Hispanic/Latino","Female","1,175",null
+"HIV diagnoses","2017","Hispanic/Latino","Male","8,750",null
+"HIV diagnoses","2017","Multiracial","Female","227",null
+"HIV diagnoses","2017","Multiracial","Male","1,140",null
+"HIV diagnoses","2017","Native Hawaiian/Other Pacific Islander","Female","7",null
+"HIV diagnoses","2017","Native Hawaiian/Other Pacific Islander","Male","43",null
+"HIV diagnoses","2017","White","Female","1,425",null
+"HIV diagnoses","2017","White","Male","8,203",null
+"HIV diagnoses","2018","American Indian/Alaska Native","Female","29",null
+"HIV diagnoses","2018","American Indian/Alaska Native","Male","144",null
+"HIV diagnoses","2018","Asian","Female","103",null
+"HIV diagnoses","2018","Asian","Male","759",null
+"HIV diagnoses","2018","Black/African American","Female","4,018",null
+"HIV diagnoses","2018","Black/African American","Male","11,718",null
+"HIV diagnoses","2018","Hispanic/Latino","Female","1,198",null
+"HIV diagnoses","2018","Hispanic/Latino","Male","8,747",null
+"HIV diagnoses","2018","Multiracial","Female","258",null
+"HIV diagnoses","2018","Multiracial","Male","949",null
+"HIV diagnoses","2018","Native Hawaiian/Other Pacific Islander","Female","5",null
+"HIV diagnoses","2018","Native Hawaiian/Other Pacific Islander","Male","56",null
+"HIV diagnoses","2018","White","Female","1,475",null
+"HIV diagnoses","2018","White","Male","7,958",null
+"HIV diagnoses","2019","American Indian/Alaska Native","Female","45",null
+"HIV diagnoses","2019","American Indian/Alaska Native","Male","159",null
+"HIV diagnoses","2019","Asian","Female","96",null
+"HIV diagnoses","2019","Asian","Male","637",null
+"HIV diagnoses","2019","Black/African American","Female","3,867",null
+"HIV diagnoses","2019","Black/African American","Male","11,604",null
+"HIV diagnoses","2019","Hispanic/Latino","Female","1,181",null
+"HIV diagnoses","2019","Hispanic/Latino","Male","8,708",null
+"HIV diagnoses","2019","Multiracial","Female","228",null
+"HIV diagnoses","2019","Multiracial","Male","874",null
+"HIV diagnoses","2019","Native Hawaiian/Other Pacific Islander","Female","9",null
+"HIV diagnoses","2019","Native Hawaiian/Other Pacific Islander","Male","57",null
+"HIV diagnoses","2019","White","Female","1,513",null
+"HIV diagnoses","2019","White","Male","7,550",null
+"HIV prevalence","2017","American Indian/Alaska Native","Female","742",null
+"HIV prevalence","2017","American Indian/Alaska Native","Male","2,100",null
+"HIV prevalence","2017","Asian","Female","2,442",null
+"HIV prevalence","2017","Asian","Male","11,352",null
+"HIV prevalence","2017","Black/African American","Female","137,345",null
+"HIV prevalence","2017","Black/African American","Male","267,629",null
+"HIV prevalence","2017","Hispanic/Latino","Female","43,356",null
+"HIV prevalence","2017","Hispanic/Latino","Male","181,561",null
+"HIV prevalence","2017","Multiracial","Female","12,379",null
+"HIV prevalence","2017","Multiracial","Male","40,134",null
+"HIV prevalence","2017","Native Hawaiian/Other Pacific Islander","Female","127",null
+"HIV prevalence","2017","Native Hawaiian/Other Pacific Islander","Male","647",null
+"HIV prevalence","2017","White","Female","38,357",null
+"HIV prevalence","2017","White","Male","256,392",null
+"HIV prevalence","2018","American Indian/Alaska Native","Female","758",null
+"HIV prevalence","2018","American Indian/Alaska Native","Male","2,212",null
+"HIV prevalence","2018","Asian","Female","2,567",null
+"HIV prevalence","2018","Asian","Male","12,118",null
+"HIV prevalence","2018","Black/African American","Female","139,534",null
+"HIV prevalence","2018","Black/African American","Male","274,927",null
+"HIV prevalence","2018","Hispanic/Latino","Female","44,133",null
+"HIV prevalence","2018","Hispanic/Latino","Male","188,627",null
+"HIV prevalence","2018","Multiracial","Female","12,379",null
+"HIV prevalence","2018","Multiracial","Male","40,286",null
+"HIV prevalence","2018","Native Hawaiian/Other Pacific Islander","Female","131",null
+"HIV prevalence","2018","Native Hawaiian/Other Pacific Islander","Male","694",null
+"HIV prevalence","2018","White","Female","39,040",null
+"HIV prevalence","2018","White","Male","260,161",null
+"HIV prevalence","2019","American Indian/Alaska Native","Female","785",null
+"HIV prevalence","2019","American Indian/Alaska Native","Male","2,333",null
+"HIV prevalence","2019","Asian","Female","2,680",null
+"HIV prevalence","2019","Asian","Male","12,767",null
+"HIV prevalence","2019","Black/African American","Female","141,598",null
+"HIV prevalence","2019","Black/African American","Male","282,113",null
+"HIV prevalence","2019","Hispanic/Latino","Female","44,896",null
+"HIV prevalence","2019","Hispanic/Latino","Male","195,755",null
+"HIV prevalence","2019","Multiracial","Female","12,374",null
+"HIV prevalence","2019","Multiracial","Male","40,379",null
+"HIV prevalence","2019","Native Hawaiian/Other Pacific Islander","Female","135",null
+"HIV prevalence","2019","Native Hawaiian/Other Pacific Islander","Male","743",null
+"HIV prevalence","2019","White","Female","39,824",null
+"HIV prevalence","2019","White","Male","263,410",null
+"Receipt of HIV medical care","2017","American Indian/Alaska Native","Female","447",null
+"Receipt of HIV medical care","2017","American Indian/Alaska Native","Male","1,110",null
+"Receipt of HIV medical care","2017","Asian","Female","1,516",null
+"Receipt of HIV medical care","2017","Asian","Male","7,492",null
+"Receipt of HIV medical care","2017","Black/African American","Female","89,500",null
+"Receipt of HIV medical care","2017","Black/African American","Male","169,003",null
+"Receipt of HIV medical care","2017","Hispanic/Latino","Female","27,661",null
+"Receipt of HIV medical care","2017","Hispanic/Latino","Male","110,150",null
+"Receipt of HIV medical care","2017","Multiracial","Female","8,033",null
+"Receipt of HIV medical care","2017","Multiracial","Male","26,728",null
+"Receipt of HIV medical care","2017","Native Hawaiian/Other Pacific Islander","Female","82",null
+"Receipt of HIV medical care","2017","Native Hawaiian/Other Pacific Islander","Male","438",null
+"Receipt of HIV medical care","2017","White","Female","23,691",null
+"Receipt of HIV medical care","2017","White","Male","176,476",null
+"Receipt of HIV medical care","2018","American Indian/Alaska Native","Female","472",null
+"Receipt of HIV medical care","2018","American Indian/Alaska Native","Male","1,202",null
+"Receipt of HIV medical care","2018","Asian","Female","1,621",null
+"Receipt of HIV medical care","2018","Asian","Male","8,198",null
+"Receipt of HIV medical care","2018","Black/African American","Female","91,426",null
+"Receipt of HIV medical care","2018","Black/African American","Male","176,263",null
+"Receipt of HIV medical care","2018","Hispanic/Latino","Female","27,366",null
+"Receipt of HIV medical care","2018","Hispanic/Latino","Male","115,197",null
+"Receipt of HIV medical care","2018","Multiracial","Female","8,061",null
+"Receipt of HIV medical care","2018","Multiracial","Male","27,223",null
+"Receipt of HIV medical care","2018","Native Hawaiian/Other Pacific Islander","Female","89",null
+"Receipt of HIV medical care","2018","Native Hawaiian/Other Pacific Islander","Male","470",null
+"Receipt of HIV medical care","2018","White","Female","24,057",null
+"Receipt of HIV medical care","2018","White","Male","180,106",null
+"Receipt of HIV medical care","2019","American Indian/Alaska Native","Female","562",null
+"Receipt of HIV medical care","2019","American Indian/Alaska Native","Male","1,674",null
+"Receipt of HIV medical care","2019","Asian","Female","1,708",null
+"Receipt of HIV medical care","2019","Asian","Male","8,787",null
+"Receipt of HIV medical care","2019","Black/African American","Female","93,067",null
+"Receipt of HIV medical care","2019","Black/African American","Male","180,734",null
+"Receipt of HIV medical care","2019","Hispanic/Latino","Female","31,937",null
+"Receipt of HIV medical care","2019","Hispanic/Latino","Male","131,600",null
+"Receipt of HIV medical care","2019","Multiracial","Female","8,403",null
+"Receipt of HIV medical care","2019","Multiracial","Male","28,840",null
+"Receipt of HIV medical care","2019","Native Hawaiian/Other Pacific Islander","Female","88",null
+"Receipt of HIV medical care","2019","Native Hawaiian/Other Pacific Islander","Male","514",null
+"Receipt of HIV medical care","2019","White","Female","25,526",null
+"Receipt of HIV medical care","2019","White","Male","189,524",null
