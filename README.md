@@ -101,5 +101,5 @@ When using data images, downloaded data, or shared document formats, please attr
 
 ## Contributors
 
-Tom Schmitt, PhD, Tracy Flood, MD PhD, Zach Sturgeon, Sarwat Siddiqui, Kelsey Skogstad, Samin Charepoo, April Miller, Cedonia Thomas, Grace Gibbon.
+Sarwat Siddiqui, Zach Sturgeon, Kelsey Skogstad, Daniel Son, Tracy Flood, MD PhD, Tom Schmitt, PhD, Samin Charepoo, April Miller, Cedonia Thomas, Grace Gibbon.
 A full list of the Broadstreet Covid-19 Data Project volunteers can be found here: https://covid19dataproject.org/team-2/
